@@ -1,0 +1,1 @@
+Algorithms from course "Algorithms and Data Structures" from university BSU and from Yandex course. My solutions tasks from different programming contests. Solving problems in statics and ML researches.
